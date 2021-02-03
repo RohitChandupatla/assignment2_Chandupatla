@@ -19,3 +19,14 @@ I love eating pizza because of **toppings** are very tasty and healthy and there
 6. Divide the Dough.
 7. Shape the Dough.
 8. Top the Pizza and Bake.
+
+
+### Ingredients required
+* 1 pound boneless skinless chicken breasts, cut into 1-inch pieces
+* 1 tablespoon olive oil
+* 1 prebaked 12-inch pizza crust
+* 1/4 cup prepared pesto
+* 1 large tomato, chopped
+* 1/2 cup canned black beans, rinsed and drained
+* 1 cup shredded part-skim mozzarella cheese
+* 1/2 cup shredded Parmesan cheese
