@@ -33,3 +33,14 @@ I love eating pizza because of **toppings** are very tasty and healthy and there
 
 [Click here to know about me](AboutMe.md)
 
+----
+
+## Suggestion of places to visit
+There are few places in India which contains diverse mountains, cultures and traditions. Munnar, Kodaikanal, Chikmagalur and Coorg.
+
+| Location | number of hours that a visitor should spend | budget to be spent | 
+| ---- | ---- | ---- |
+| Munnar | 48 | ₹15000 |
+| Kodaikanal | 144 | ₹20000 |
+| Chikmagalur | 96 | ₹10000 |
+| Coorg | 72 | ₹12000 |
