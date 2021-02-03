@@ -44,3 +44,9 @@ There are few places in India which contains diverse mountains, cultures and tra
 | Kodaikanal | 144 | ₹20000 |
 | Chikmagalur | 96 | ₹10000 |
 | Coorg | 72 | ₹12000 |
+
+----
+
+# Favorite quotes
+> "Everything comes in time to him who knows how to wait." - _Leo Tolstoy_
+> "If you expect nothing from anybody, you’re never disappointed." -_Sylvia Plath_
