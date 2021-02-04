@@ -31,6 +31,15 @@ I love eating pizza because of **toppings** are very tasty and healthy and there
 * 1 cup shredded part-skim mozzarella cheese
 * 1/2 cup shredded Parmesan cheese
 
+![Chicken pizza ingredients](Pictures/pepper-delight-tandoori-chicken-pizza-ingredients.jpg)
+
+![Chicken pizza preparation](Pictures/pepper-delight-tandoori-chicken-pizza-preparation.jpg)
+
+![Chicken pizza ready](Pictures/pepper-delight-tandoori-chicken-pizza-3.jpg)
+
+![Chicken pizza ready to serve](Pictures/chicken-pizza-ready-to-serve.jpg)
+
+
 [Click here to know about me](AboutMe.md)
 
 ----
