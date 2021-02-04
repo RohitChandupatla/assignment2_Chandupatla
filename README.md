@@ -47,6 +47,28 @@ There are few places in India which contains diverse mountains, cultures and tra
 
 ----
 
-# Favorite quotes
-> "Everything comes in time to him who knows how to wait." - _Leo Tolstoy_
+### Favorite quotes
+> "Everything comes in time to him who knows how to wait." - _Leo Tolstoy_ <br>
 > "If you expect nothing from anybody, you’re never disappointed." -_Sylvia Plath_
+
+---- 
+
+### Java Language
+> Java is a high-level programming language developed by Sun Microsystems. It was originally designed for developing programs for set-top boxes and handheld devices, but later became a popular choice for creating web applications. The Java syntax is similar to C++, but is strictly an object-oriented programming language.
+
+Java Language <https://en.wikipedia.org/wiki/Java_(programming_language)>
+
+Sample code as follows
+```
+/* HelloWorld.java
+ */
+
+public class HelloWorld
+{
+	public static void main(String[] args) {
+		System.out.println("Hello World!");
+	}
+}
+```
+
+Java program sample code reference <https://www.cs.utexas.edu/~scottm/cs307/javacode/codeSamples/HelloWorld.java>
